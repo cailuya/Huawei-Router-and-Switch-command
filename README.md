@@ -3,7 +3,7 @@
 GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/20070065)
 ## 编写规范
 本文档采用 Markdown 编写，在后面会有 Markdown 的编写教程。
-文档写作使用文本编码为 UTF-8，回车为 linux 标准的 `LF`，不限制文本编辑器的使用，但是推荐使用 [VScode](https://code.visualstudio.com/)
+文档写作使用文本编码为 UTF-8，回车为 linux 标准的 `LF`，不限制文本编辑器的使用，但是推荐使用 [VScode](https://code.visualstudio.com/)。
 
 ### 命令行格式约定
 
