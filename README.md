@@ -1,6 +1,6 @@
 # 华为交换机与路由器命令汇总
 本文档采用 Markdown 编写，在后面会有 Markdown 的编写教程。
-
+GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/20070065)
 ## 编写规范
 
 ### 命令行格式约定
