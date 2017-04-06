@@ -1,11 +1,11 @@
 # 华为交换机与路由器命令汇总
-本文档采用 Markdown 编写，在后面会有 Markdown 的编写教程。
+
 GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/20070065)
 ## 编写规范
+本文档采用 Markdown 编写，在后面会有 Markdown 的编写教程。
+文档写作使用文本编码为 UTF-8，回车为 linux 标准的 `LF`，不限制文本编辑器的使用，但是推荐使用 [VScode](https://code.visualstudio.com/)
 
 ### 命令行格式约定
-
-
 
 <table>
 <thead>
@@ -56,7 +56,8 @@ GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/2007
 </table>
 
 ## Markdown 语法
-本文档不需要太过复杂，只需要记住下面几种标记用法即可。
+本文档不需要太过复杂，只需要记住下面几种标记用法即可。如果有兴趣的话可以进一步学习：[
+献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
 ### 标题
 
 ```
@@ -77,51 +78,5 @@ GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/2007
 ```
 
 效果：**粗体**
-### 无序列表
-
-Markdown 语法：
-
-```
-* 项目一 无序列表 
-* 项目二
-```
-
-
-效果如下：
-
-* 项目一 无序列表 
-* 项目二
-
-
-### 有序列表
-
-Markdown 语法：
-
-```
-1. 项目一 有序列表 
-2. 项目二 
-3. 项目三
-```
-
-效果如下：
-
-1. 项目一 有序列表 
-2. 项目二 
-3. 项目三
-
-
-### 任务列表
-
-Markdown 语法：
-
-```
-- [ ] 任务一 未做任务
-- [x] 任务二 已做任务 
-```
-
-效果如下：
-
-- [ ] 任务一 未做任务
-- [x] 任务二 已做任务 
 
 
