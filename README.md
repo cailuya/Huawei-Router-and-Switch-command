@@ -85,10 +85,7 @@ GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/2007
 `单行引用`
 
 ```
-多
-行
-引
-用
-```
-```
+多行引用只好用图片来演示：
+
+i[](http://on1xqfktc.bkt.clouddn.com/999001.png)
 
