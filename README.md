@@ -87,5 +87,5 @@ GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/2007
 ```
 多行引用只好用图片来演示：
 
-i[](http://on1xqfktc.bkt.clouddn.com/999001.png)
+![](http://on1xqfktc.bkt.clouddn.com/999001.png)
 
