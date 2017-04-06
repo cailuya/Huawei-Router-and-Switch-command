@@ -17,10 +17,6 @@ GitHub 使用教程 [怎样使用 GitHub？](https://www.zhihu.com/question/2007
 
 <tbody>
 <tr>
-<td><strong>粗体</strong></td>
-<td>命令行关键字（命令中保持不变、必须照输的部分）采用加粗字体表示。</td>
-</tr>
-<tr>
 <td><em>斜体</em></td>
 <td>命令行参数（命令中必须由实际值进行替代的部分）采用斜体表示。</td>
 </tr>
